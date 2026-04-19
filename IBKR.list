@@ -2,3 +2,6 @@
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-KEYWORD,ibkr
+DOMAIN-KEYWORD,ibllc
+DOMAIN-KEYWORD,interactivebrokers
